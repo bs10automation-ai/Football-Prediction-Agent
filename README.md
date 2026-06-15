@@ -126,4 +126,5 @@ Prompt engineering
 End-to-end AI automation architecture
 
 
-Author Bogdan Sukhina
+Author:
+Bogdan Sukhina
