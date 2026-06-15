@@ -124,4 +124,6 @@ AI Agent development
 Airtable database design
 Prompt engineering
 End-to-end AI automation architecture
+
+
 Author Bogdan Sukhina
